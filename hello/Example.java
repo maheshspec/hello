@@ -9,7 +9,7 @@ public class Example{
 		
 	}
 	
-	
+	// a method to convert into string
 	private static String getString(String str) {
 		String s = "";
 		for(int i = 0; i<str.length(); i++) {
