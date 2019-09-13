@@ -10,7 +10,7 @@ public class Example{
 	}
 	
 	
-	private static String getStribg(String str) {
+	private static String getString(String str) {
 		String s = "";
 		for(int i = 0; i<str.length(); i++) {
 			char c = str.charAt(i);
